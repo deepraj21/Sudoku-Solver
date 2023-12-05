@@ -1,6 +1,6 @@
 # Sudoku 
 
-<img href="https://cdni.iconscout.com/illustration/premium/thumb/woman-playing-sudoku-game-5638200-4706924.png?f=webp" align="right">
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/woman-playing-sudoku-game-5638200-4706924.png?f=webp" align="right">
 
 Sudoku is a popular number puzzle game that has gained immense popularity worldwide. It is a classic logic-based combinatorial number-placement puzzle. The objective of the game is to fill a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 subgrids (also known as "regions" or "boxes") contains all of the digits from 1 to 9. The puzzle starts with some cells already filled with numbers, and the player must use logic and deduction to complete the grid.
 
@@ -84,4 +84,4 @@ The backtracking algorithm allows the solver to explore different possibilities 
 
 # WebApp Preview
 
-![screenshot](image.jpg)
+<img src="image.png">
